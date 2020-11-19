@@ -1,5 +1,5 @@
-# msw_skt_lte
-
+# lib_skt_lte
+sparrow 보드에 장착된 SKT LTE 모듈의 LTE 품질을 측정하는 라이브러리 프로세스
 ## Install dependencies
 ### MQTT-broker
 ```
